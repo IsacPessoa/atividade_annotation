@@ -1,6 +1,6 @@
 package br.com.ilima;
 
-@Tabela("Nome")
+@Tabela("Tabela")
 public class ClasseAnnotation {
     private String nome;
 }
